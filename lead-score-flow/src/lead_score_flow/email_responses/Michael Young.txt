@@ -1,0 +1,17 @@
+Subject: Thank You for Your Application
+
+Dear Michael,
+
+I hope this message finds you well. 
+
+I want to take a moment to thank you for your application and for the effort you put into your submission for the web development position at CrewAI. Your experience in building a social media dashboard using React and your passion for technology truly stand out. 
+
+After careful consideration, we have decided to proceed with other candidates for this position. This decision in no way reflects your abilities or potential, and we truly appreciate the time and effort you dedicated to applying with us.
+
+We encourage you to keep an eye on future opportunities at CrewAI that may align better with your skills and aspirations. Thank you again for your interest in being part of our team, and we wish you the best in your job search.
+
+Warm regards,
+
+Sarah  
+HR Coordinator  
+CrewAI

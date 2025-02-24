@@ -1,0 +1,14 @@
+Subject: Next Steps in Your Application Process
+
+Dear Tom,
+
+I hope this message finds you well. Thank you for your application and for sharing your impressive background with us. Your experience as a mid-level developer, particularly your work with React and Next.js on commercial projects, stands out to us. We are impressed by your focus on performance optimization and SEO, along with your proficiency in building scalable web solutions that enhance user engagement.
+
+We are excited to inform you that we would like to proceed with your application. To further discuss your qualifications and explore how you might fit within our team, we would like to schedule a Zoom call with you in the coming days. Could you please provide your availability for this?
+
+Thank you once again for your interest in joining CrewAI. We look forward to hearing from you soon.
+
+Best regards,  
+Sarah  
+HR Coordinator  
+CrewAI

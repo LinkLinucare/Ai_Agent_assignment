@@ -1,0 +1,14 @@
+Subject: Exciting Next Steps in Your Application Process
+
+Dear Robert,
+
+I hope this message finds you well. I wanted to take a moment to thank you for your application and for sharing your impressive background with us. Your extensive experience as a front-end developer, particularly with React and AI-powered applications, truly resonates with what we are looking for at CrewAI.
+
+We are excited to move forward with your application and would love the opportunity to discuss your experience further. Could you please provide your availability for a Zoom call in the upcoming days? We are eager to learn more about your work on projects like the recommendation engine with the Vercel AI SDK and how your skills can contribute to our team.
+
+Thank you once again for your interest in joining CrewAI. I look forward to hearing from you soon!
+
+Best regards,  
+Sarah  
+HR Coordinator  
+CrewAI
